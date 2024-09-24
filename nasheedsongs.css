@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  background-image: url("masjidannabawi2.jpg");
+  background-size: cover;
+}
+
+video {
+  width: 80%;
+  height: 50vh;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h2{
+    background-color: antiquewhite;
+    text-align: center;
+}
